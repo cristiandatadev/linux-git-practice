@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Hola Data Engineer"
+pwd
+date
+
+
+echo "hola data engineer"
